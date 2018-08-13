@@ -191,7 +191,7 @@ return sendMsg(msg.to.id,1,text,'md')
 end end 
 if matches[1] == "سورس" or matches[1]=="السورس" then
 return [[
-    🛠 ┇ تنصـيب سـورس مكويد 🔎
+    🛠 ┇ ميكو
 
  ⇓⇓⇓ 
 
